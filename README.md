@@ -1,7 +1,7 @@
 # JubaHub - Gestão Inteligente para Cantinas
 
 ![JubaHub](https://img.shields.io/badge/Status-In%20Development-brightgreen)
-&nbsp
+
 ## Sobre o Projeto
 
 **JubaHub** é uma aplicação backoffice inovadora, desenvolvida para simplificar a gestão de cantinas e lanchonetes. Criado por um grupo de estudantes, o **JubaHub** oferece uma plataforma prática para gerenciar clientes, eventos e o fluxo de caixa. A aplicação utiliza tecnologia moderna com uma arquitetura escalável baseada no padrão Onion, oferecendo flexibilidade e segurança para crescer com o seu negócio.
