@@ -1,0 +1,6 @@
+@JubaHub.API_HostAddress = http://localhost:5089
+
+GET {{JubaHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
